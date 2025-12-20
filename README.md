@@ -20,18 +20,36 @@ As a published **ThemeForest author**, I have a proven track record of developin
 - 💡 **My Core Philosophy:** Clean, efficient code is the foundation of a secure and fast web.
 - 📫 **How to reach me:** [shahadul.islam1@gmail.com](mailto:shahadul.islam1@gmail.com)
 
+
 ---
 
 ### 🛠️ Core Competencies
 
-- **WordPress Ecosystem:** WordPress, WooCommerce, Elementor, PHP, MySQL
-- **Frontend & Styling:** HTML5, CSS3, JavaScript (ES6+), jQuery, SCSS
-- **Performance & Security:** Speed Optimization, Malware Removal, SSL, Firewalls
-- **Project Workflow:** Theme Customization, Custom Plugin Development, Bug Fixing, Staging/Deployment
-- **Tools & Platforms:** Git, HubSpot, REST APIs
+<p align="center">
+  <!-- WordPress Ecosystem -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <!-- Frontend & Styling -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+
+  <!-- Performance & Security -->
+  <img src="https://img.shields.io/badge/Speed_Optimization-FF6B6B?style=for-the-badge&logo=speedtest&logoColor=white" alt="Speed Optimization" />
+  <img src="https://img.shields.io/badge/Web_Security-4CAF50?style=for-the-badge&logo=security&logoColor=white" alt="Web Security" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+</p>
 
 ---
-
 ### 📈 Professional Highlights
 
 #### 🚀 Lead Developer | Ayyash Addons (ThemeForest)
