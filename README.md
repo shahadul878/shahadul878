@@ -1,40 +1,110 @@
-<h1 align="center">Hi 👋, I'm Shahadul Islam</h1>
-<h3 align="center">I am Full Stack Web Developer</h3>
+<!-- 
+✨ Professional GitHub Profile README for H M SHAHADUL ISLAM.
+This profile is tailored to highlight extensive WordPress development experience.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadul878&label=Profile%20views&color=0e75b6&style=flat" alt="shahadul878" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadul878" alt="shahadul878" /></a> </p>
-
-- 🔭 I’m currently working on **Pixelaar**
-
-- 🌱 I’m currently learning **Laravel, React, Veu**
-
-- 📫 How to reach me **shahadul.islam1@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shahadul878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahadul878" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theshahadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theshahadul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8659390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8659390" height="30" width="40" /></a>
-<a href="https://fb.com/theshahadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theshahadul" height="30" width="40" /></a>
-<a href="https://www.behance.net/webtech878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="webtech878" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=4000&color=21759B&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+H+M+Shahadul+Islam;Experienced+WordPress+Developer;ThemeForest+Author+%26+Performance+Expert" alt="Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shahadul878"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahadul878" /></a><a href="https://ko-fi.com/shahadul878"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shahadul878" /></a></p><br><br>
+### 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadul878&show_icons=true&locale=en&layout=compact" alt="shahadul878" /></p>
+I am a highly skilled and results-oriented **WordPress Developer** with over 7 years of professional experience in web design, development, and optimization. My expertise lies in architecting and building dynamic, high-performance websites, creating custom WordPress themes and plugins from scratch, and implementing robust web security features.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadul878&show_icons=true&locale=en" alt="shahadul878" /></p>
+As a published **ThemeForest author**, I have a proven track record of developing commercial-grade products that are pixel-perfect, responsive, and tailored to client needs. I am adept at leveraging modern tools like Elementor and committed to following best practices in development and deployment.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadul878&" alt="shahadul878" /></p>
+- 🔭 **Current Role:** Lead Developer & Maintenance Engineer, building commercial products and managing client websites.
+- 🌱 **Currently Exploring:** Advanced Headless WordPress architectures and API integrations.
+- 💡 **My Core Philosophy:** Clean, efficient code is the foundation of a secure and fast web.
+- 📫 **How to reach me:** [shahadul.islam1@gmail.com](mailto:shahadul.islam1@gmail.com)
 
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahadul878&show_icons=true&theme=dark)]
+### 🛠️ Core Competencies
+
+- **WordPress Ecosystem:** WordPress, WooCommerce, Elementor, PHP, MySQL
+- **Frontend & Styling:** HTML5, CSS3, JavaScript (ES6+), jQuery, SCSS
+- **Performance & Security:** Speed Optimization, Malware Removal, SSL, Firewalls
+- **Project Workflow:** Theme Customization, Custom Plugin Development, Bug Fixing, Staging/Deployment
+- **Tools & Platforms:** Git, HubSpot, REST APIs
+
+---
+
+### 📈 Professional Highlights
+
+#### 🚀 Lead Developer | Ayyash Addons (ThemeForest)
+- Architected and built a full-featured **Elementor Addons plugin** from the ground up.
+- Developed advanced widgets for dynamic content, sliders, and styling, enhancing user capabilities.
+- Implemented a lightweight code structure and caching mechanisms, resulting in significant speed improvements.
+- Successfully drove product adoption, contributing to **1,000+ downloads** through ThemeForest bundles.
+
+#### ⚙️ WordPress Developer | Pixelaar FZC LLC
+- Translated complex PSD designs into fully functional, custom WordPress themes and plugins.
+- Specialized in building **Elementor-based themes** with unique custom functionalities.
+- Consistently improved page load speeds and optimized website performance for a better user experience.
+- Maintained and secured WordPress environments against vulnerabilities.
+
+#### 🔒 Maintenance Engineer | Fast Track Training UK
+- Managed and maintained a portfolio of client websites, ensuring uptime and reliability.
+- Diagnosed and resolved critical bugs and performance issues.
+- Implemented comprehensive security measures, including **SSL certificates and malware protection**.
+- Handled server setups, backups, and overall web optimizations for an international client.
+
+---
+
+### 🏆 Featured Work
+
+#### 📦 ThemeForest Products
+Commercially successful WordPress themes and plugins developed for a global audience.
+
+- **[TravelBird](https://themeforest.net/user/your-portfolio-link)** – Tour & Travel Theme
+- **[Springoo](https://themeforest.net/user/your-portfolio-link)** – Fashion WooCommerce Theme
+- **[Neoteric](https://themeforest.net/user/your-portfolio-link)** – Lifestyle WordPress Theme
+- **[FishingGear](https://themeforest.net/user/your-portfolio-link)** – Accessories WooCommerce Theme
+- **[Posterlaab](https://themeforest.net/user/your-portfolio-link)** – Poster Sales Theme
+
+#### 🌐 Client Projects
+A selection of live websites showcasing custom development and client collaboration.
+
+- **[FastTrack Life UK](https://www.fasttracklifeuk.co.uk/)**
+- **[English School Online](https://englishschoolonline.co.uk/)**
+- **[HGV Theory Online](https://hgvtheoryonline.co.uk/)**
+- **[ProClient](https://proclient.ca/)**
+
+---
+
+### 🤝 Let's Connect!
+
+I am available for freelance work and full-time opportunities. Feel free to reach out to discuss your project.
+
+<p align="center">
+  <!-- Hire Me Button -->
+  <a href="mailto:shahadul.islam1@gmail.com?subject=Hiring%20Inquiry%20from%20GitHub%20Profile" target="blank">
+    <img src="https://img.shields.io/badge/HIRE_ME-4CAF50?style=for-the-badge&logo=hire-me&logoColor=white" alt="Hire Me"/>
+  </a>
+  
+  <!-- Contact Us Button -->
+  <a href="mailto:shahadul.islam1@gmail.com?subject=Contact%20from%20GitHub%20Profile" target="blank">
+    <img src="https://img.shields.io/badge/CONTACT_US-007BFF?style=for-the-badge&logo=contact&logoColor=white" alt="Contact Us"/>
+  </a>
+  
+  <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/your-profile-link" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahadul878&style=for-the-badge&color=21759B" alt="Profile Views"/>
+</p>
+```
+
+---
+
+### Key Changes:
+
+*   **Inline Format:** The "Core Competencies" section now uses a clean, bulleted list format that is much more compact and professional.
+*   **Logical Grouping:** Skills are still grouped by category (e.g., WordPress Ecosystem, Frontend & Styling), making it easy for recruiters to quickly scan for the technologies they care about.
+*   **Improved Readability:** This format is less visually noisy than a wall of badges and presents your skills in a clear, text-based manner that is highly scannable.
