@@ -49,49 +49,20 @@ As a published **ThemeForest author**, I have a proven track record of developin
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
 </p>
 
+
 ---
+
 ### 📈 Professional Highlights
 
-#### 🚀 Lead Developer | Ayyash Addons (ThemeForest)
-- Architected and built a full-featured **Elementor Addons plugin** from the ground up.
-- Developed advanced widgets for dynamic content, sliders, and styling, enhancing user capabilities.
-- Implemented a lightweight code structure and caching mechanisms, resulting in significant speed improvements.
-- Successfully drove product adoption, contributing to **1,000+ downloads** through ThemeForest bundles.
+A summary of my key achievements and skills across all roles:
 
-#### ⚙️ WordPress Developer | Pixelaar FZC LLC
-- Translated complex PSD designs into fully functional, custom WordPress themes and plugins.
-- Specialized in building **Elementor-based themes** with unique custom functionalities.
-- Consistently improved page load speeds and optimized website performance for a better user experience.
-- Maintained and secured WordPress environments against vulnerabilities.
+- 🚀 **Product Development:** Architected and built a full-featured **Elementor Addons** plugin from scratch, achieving **1,000+ downloads** on ThemeForest.
+- 🎨 **Design to Code:** Expertly translated complex **PSD designs** into fully functional, custom WordPress themes and plugins.
+- ⚡ **Performance Optimization:** Significantly improved website performance and page load speeds through lightweight code structure and caching.
+- 🛡️ **Web Security:** Implemented comprehensive security measures, including **SSL certificates, malware protection, and firewalls** for client sites.
+- 🔧 **Site Management:** Managed and maintained a diverse portfolio of client websites, ensuring high uptime and reliability for international clients.
+- 🛠️ **Custom Functionality:** Specialized in building **Elementor-based themes** and developing unique custom functionalities to meet specific client needs.
 
-#### 🔒 Maintenance Engineer | Fast Track Training UK
-- Managed and maintained a portfolio of client websites, ensuring uptime and reliability.
-- Diagnosed and resolved critical bugs and performance issues.
-- Implemented comprehensive security measures, including **SSL certificates and malware protection**.
-- Handled server setups, backups, and overall web optimizations for an international client.
-
----
-
-### 🏆 Featured Work
-
-#### 📦 ThemeForest Products
-Commercially successful WordPress themes and plugins developed for a global audience.
-
-- **[TravelBird](https://themeforest.net/user/your-portfolio-link)** – Tour & Travel Theme
-- **[Springoo](https://themeforest.net/user/your-portfolio-link)** – Fashion WooCommerce Theme
-- **[Neoteric](https://themeforest.net/user/your-portfolio-link)** – Lifestyle WordPress Theme
-- **[FishingGear](https://themeforest.net/user/your-portfolio-link)** – Accessories WooCommerce Theme
-- **[Posterlaab](https://themeforest.net/user/your-portfolio-link)** – Poster Sales Theme
-
-#### 🌐 Client Projects
-A selection of live websites showcasing custom development and client collaboration.
-
-- **[FastTrack Life UK](https://www.fasttracklifeuk.co.uk/)**
-- **[English School Online](https://englishschoolonline.co.uk/)**
-- **[HGV Theory Online](https://hgvtheoryonline.co.uk/)**
-- **[ProClient](https://proclient.ca/)**
-
----
 
 ### 🤝 Let's Connect!
 
