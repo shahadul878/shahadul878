@@ -88,12 +88,3 @@ I am available for freelance work and full-time opportunities. Feel free to reac
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahadul878&style=for-the-badge&color=21759B" alt="Profile Views"/>
 </p>
-```
-
----
-
-### Key Changes:
-
-*   **Inline Format:** The "Core Competencies" section now uses a clean, bulleted list format that is much more compact and professional.
-*   **Logical Grouping:** Skills are still grouped by category (e.g., WordPress Ecosystem, Frontend & Styling), making it easy for recruiters to quickly scan for the technologies they care about.
-*   **Improved Readability:** This format is less visually noisy than a wall of badges and presents your skills in a clear, text-based manner that is highly scannable.
