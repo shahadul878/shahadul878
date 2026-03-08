@@ -80,7 +80,7 @@ I am available for freelance work and full-time opportunities. Feel free to reac
   </a>
   
   <!-- LinkedIn Profile -->
-  <a href="https://www.linkedin.com/in/your-profile-link" target="blank">
+  <a href="https://www.linkedin.com/in/theshahadul/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
