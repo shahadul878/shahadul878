@@ -1,90 +1,45 @@
-<!-- 
-✨ Professional GitHub Profile README for H M SHAHADUL ISLAM.
-This profile is tailored to highlight extensive WordPress development experience.
--->
+<img src="assets/header.svg" alt="H M Shahadul Islam — Full-Stack WordPress Developer" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=4000&color=21759B&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+H+M+Shahadul+Islam;Experienced+WordPress+Developer;ThemeForest+Author+%26+Performance+Expert" alt="Typing SVG">
+  <a href="https://codereyes.com"><img src="https://img.shields.io/badge/codereyes.com-0a0e1a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Website"/></a>
+  <a href="mailto:shahadul.islam1@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e1a?style=for-the-badge&logo=gmail&logoColor=ff7ab6" alt="Email"/></a>
+  <a href="https://github.com/codereyes-com"><img src="https://img.shields.io/badge/@codereyes--com-0a0e1a?style=for-the-badge&logo=github&logoColor=c4b5ff" alt="Organization"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shahadul878&style=for-the-badge&color=7c5cff&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### 👨‍💻 About Me
+<img src="assets/about.svg" alt="About me" width="100%"/>
 
-I am a highly skilled and results-oriented **WordPress Developer** with over 7 years of professional experience in web design, development, and optimization. My expertise lies in architecting and building dynamic, high-performance websites, creating custom WordPress themes and plugins from scratch, and implementing robust web security features.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-As a published **ThemeForest author**, I have a proven track record of developing commercial-grade products that are pixel-perfect, responsive, and tailored to client needs. I am adept at leveraging modern tools like Elementor and committed to following best practices in development and deployment.
+## ✦ By the numbers
 
-- 🔭 **Current Role:** Lead Developer & Maintenance Engineer, building commercial products and managing client websites.
-- 🌱 **Currently Exploring:** Advanced Headless WordPress architectures and API integrations.
-- 💡 **My Core Philosophy:** Clean, efficient code is the foundation of a secure and fast web.
-- 📫 **How to reach me:** [shahadul.islam1@gmail.com](mailto:shahadul.islam1@gmail.com)
+<img src="assets/highlights.svg" alt="7+ years, 1,000+ downloads, ThemeForest author, PSD to WP" width="100%"/>
 
+## ✦ Stack
 
----
+<img src="assets/stack.svg" alt="WordPress, WooCommerce, Elementor, PHP, JavaScript, jQuery, MySQL, HTML5, CSS3, SCSS, Speed Optimization, Web Security, Git, HubSpot" width="100%"/>
 
-### 🛠️ Core Competencies
+## ✦ What I ship
 
-<p align="center">
-  <!-- WordPress Ecosystem -->
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <!-- Frontend & Styling -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+| | |
+|---|---|
+| 🚀 **Products** | A full-featured **Elementor Addons** plugin, built from scratch — **1,000+ downloads** on ThemeForest. |
+| 🎨 **Design → Code** | Complex PSD designs turned into custom, pixel-perfect, responsive themes and plugins. |
+| ⚡ **Performance** | Lightweight code structure and smart caching for faster page loads. |
+| 🛡️ **Security** | SSL, malware protection and firewalls on client sites. |
+| 🔧 **Care** | Ongoing maintenance of a diverse client portfolio — high uptime, high reliability. |
 
-  <!-- Performance & Security -->
-  <img src="https://img.shields.io/badge/Speed_Optimization-FF6B6B?style=for-the-badge&logo=speedtest&logoColor=white" alt="Speed Optimization" />
-  <img src="https://img.shields.io/badge/Web_Security-4CAF50?style=for-the-badge&logo=security&logoColor=white" alt="Web Security" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-</p>
-
-
----
-
-### 📈 Professional Highlights
-
-A summary of my key achievements and skills across all roles:
-
-- 🚀 **Product Development:** Architected and built a full-featured **Elementor Addons** plugin from scratch, achieving **1,000+ downloads** on ThemeForest.
-- 🎨 **Design to Code:** Expertly translated complex **PSD designs** into fully functional, custom WordPress themes and plugins.
-- ⚡ **Performance Optimization:** Significantly improved website performance and page load speeds through lightweight code structure and caching.
-- 🛡️ **Web Security:** Implemented comprehensive security measures, including **SSL certificates, malware protection, and firewalls** for client sites.
-- 🔧 **Site Management:** Managed and maintained a diverse portfolio of client websites, ensuring high uptime and reliability for international clients.
-- 🛠️ **Custom Functionality:** Specialized in building **Elementor-based themes** and developing unique custom functionalities to meet specific client needs.
-
-
-### 🤝 Let's Connect!
-
-I am available for freelance work and full-time opportunities. Feel free to reach out to discuss your project.
+## ✦ Activity
 
 <p align="center">
-  <!-- Hire Me Button -->
-  <a href="mailto:shahadul.islam1@gmail.com?subject=Hiring%20Inquiry%20from%20GitHub%20Profile" target="blank">
-    <img src="https://img.shields.io/badge/HIRE_ME-4CAF50?style=for-the-badge&logo=hire-me&logoColor=white" alt="Hire Me"/>
-  </a>
-  
-  <!-- Contact Us Button -->
-  <a href="mailto:shahadul.islam1@gmail.com?subject=Contact%20from%20GitHub%20Profile" target="blank">
-    <img src="https://img.shields.io/badge/CONTACT_US-007BFF?style=for-the-badge&logo=contact&logoColor=white" alt="Contact Us"/>
-  </a>
-  
-  <!-- LinkedIn Profile -->
-  <a href="https://www.linkedin.com/in/theshahadul/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahadul878&show_icons=true&hide_border=true&bg_color=0f1426&title_color=c4b5ff&icon_color=22d3ee&text_color=c9d1f2&ring_color=7c5cff&border_radius=16" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadul878&layout=compact&hide_border=true&bg_color=0f1426&title_color=c4b5ff&text_color=c9d1f2&border_radius=16" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahadul878&style=for-the-badge&color=21759B" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadul878&hide_border=true&background=0f1426&ring=7c5cff&fire=ff7ab6&currStreakLabel=22d3ee&sideLabels=c9d1f2&currStreakNum=ffffff&sideNums=ffffff&dates=9aa4c7&border_radius=16" alt="Contribution streak"/>
 </p>
+
+<img src="assets/footer.svg" width="100%" alt=""/>
