@@ -50,21 +50,21 @@
 
   <!-- name -->
   <text x="64" y="162" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="70" font-weight="800" fill="url(#name)" letter-spacing="-2">H M Shahadul Islam</text>
-  <text x="66" y="206" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="23" font-weight="500" fill="#9aa4c7">Full-Stack WordPress Developer · Lead Developer &amp; Maintenance Engineer</text>
+  <text x="66" y="206" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="23" font-weight="500" fill="#9aa4c7">Full-Stack WordPress Developer · DevOps · Lead &amp; Maintenance Engineer</text>
 
   <!-- rotating roles -->
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21">
     <text x="66" y="262" fill="#7c5cff" font-weight="700">&gt;</text>
     <text x="92" y="262" fill="#e7e9ff">
-      building fast, secure WordPress products
+      WordPress themes, plugins &amp; WooCommerce
       <animate attributeName="opacity" values="0;1;1;0;0;0;0;0;0" keyTimes="0;0.04;0.28;0.33;0.34;0.66;0.67;0.99;1" dur="12s" repeatCount="indefinite"/>
     </text>
     <text x="92" y="262" fill="#e7e9ff">
-      turning PSDs into pixel-perfect themes
+      DevOps: servers, deployments &amp; uptime
       <animate attributeName="opacity" values="0;0;0;1;1;0;0;0;0" keyTimes="0;0.33;0.34;0.38;0.61;0.66;0.67;0.99;1" dur="12s" repeatCount="indefinite"/>
     </text>
     <text x="92" y="262" fill="#e7e9ff">
-      exploring headless WordPress &amp; APIs
+      SaaS, APIs, headless WP &amp; AI automation
       <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0" keyTimes="0;0.33;0.66;0.67;0.7;0.71;0.74;0.95;1" dur="12s" repeatCount="indefinite"/>
     </text>
     <rect x="92" y="244" width="2" height="24" fill="#22d3ee">
