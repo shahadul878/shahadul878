@@ -50,7 +50,7 @@
 
   <!-- name -->
   <text x="64" y="162" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="70" font-weight="800" fill="url(#name)" letter-spacing="-2">H M Shahadul Islam</text>
-  <text x="66" y="206" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="26" font-weight="500" fill="#9aa4c7">Full-Stack WordPress Developer · ThemeForest Author</text>
+  <text x="66" y="206" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="23" font-weight="500" fill="#9aa4c7">Full-Stack WordPress Developer · Lead Developer &amp; Maintenance Engineer</text>
 
   <!-- rotating roles -->
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21">
@@ -70,6 +70,14 @@
     <rect x="92" y="244" width="2" height="24" fill="#22d3ee">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
+  </g>
+
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#ffffff" fill-opacity="0.10" font-size="28" font-weight="700">
+    <text x="720" y="70">&lt;?php<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6s" repeatCount="indefinite"/></text>
+    <text x="820" y="300">{ }<animateTransform attributeName="transform" type="translate" values="0 0;0 12;0 0" dur="7s" repeatCount="indefinite"/></text>
+    <text x="1120" y="60">;<animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="5s" repeatCount="indefinite"/></text>
+    <text x="640" y="200">$wp<animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="8s" repeatCount="indefinite"/></text>
   </g>
 
   <!-- emblem -->

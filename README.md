@@ -13,25 +13,38 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## ✦ By the numbers
+<img src="assets/sec-01.svg" width="100%" alt="Numbers"/>
 
-<img src="assets/highlights.svg" alt="7+ years, 1,000+ downloads, ThemeForest author, PSD to WP" width="100%"/>
+<img src="assets/highlights.svg" alt="7+ years, 2,000+ active installs, ThemeForest themes with a team, Figma to WP" width="100%"/>
 
-## ✦ Stack
+<img src="assets/sec-02.svg" width="100%" alt="Featured plugin"/>
+
+<a href="https://wordpress.org/plugins/easy-php-settings/"><img src="assets/featured.svg" alt="Easy PHP Settings — 2,000+ active installs" width="100%"/></a>
+
+<img src="assets/sec-03.svg" width="100%" alt="More things I built"/>
+
+<table>
+<tr><td><a href="https://github.com/shahadul878/easy-redirect"><img src="assets/card-1.svg" width="390" alt="easy-redirect"/></a></td><td><a href="https://github.com/shahadul878/codereyes-mobile-shop"><img src="assets/card-2.svg" width="390" alt="codereyes-mobile-shop"/></a></td><td><a href="https://github.com/shahadul878/wordpress-inspector-pro"><img src="assets/card-3.svg" width="390" alt="wordpress-inspector-pro"/></a></td></tr>
+<tr><td><a href="https://github.com/shahadul878/sitemind-ai"><img src="assets/card-4.svg" width="390" alt="sitemind-ai"/></a></td><td><a href="https://github.com/shahadul878/cleanwp"><img src="assets/card-5.svg" width="390" alt="cleanwp"/></a></td><td><a href="https://github.com/shahadul878/local-addon-laravel"><img src="assets/card-6.svg" width="390" alt="local-addon-laravel"/></a></td></tr>
+</table>
+
+<img src="assets/sec-04.svg" width="100%" alt="Stack"/>
 
 <img src="assets/stack.svg" alt="WordPress, WooCommerce, Elementor, PHP, JavaScript, jQuery, MySQL, HTML5, CSS3, SCSS, Speed Optimization, Web Security, Git, HubSpot" width="100%"/>
 
-## ✦ What I ship
+<img src="assets/sec-05.svg" width="100%" alt="What I do"/>
 
 | | |
 |---|---|
-| 🚀 **Products** | A full-featured **Elementor Addons** plugin, built from scratch — **1,000+ downloads** on ThemeForest. |
-| 🎨 **Design → Code** | Complex PSD designs turned into custom, pixel-perfect, responsive themes and plugins. |
+| 🧩 **Plugins** | Free and pro WordPress plugins, from [Easy PHP Settings](https://wordpress.org/plugins/easy-php-settings/) to tools for shops and developers. |
+| 👥 **Team work** | Building ThemeForest themes with a team at a company, as lead developer. |
+| 🎨 **Design → Code** | Figma, JPG and complex layouts turned into custom, pixel-perfect, responsive themes. |
 | ⚡ **Performance** | Lightweight code structure and smart caching for faster page loads. |
 | 🛡️ **Security** | SSL, malware protection and firewalls on client sites. |
-| 🔧 **Care** | Ongoing maintenance of a diverse client portfolio — high uptime, high reliability. |
+| 🔧 **Maintenance** | Keeping a diverse client portfolio running with high uptime and reliability. |
 
-## ✦ Activity
+<img src="assets/sec-06.svg" width="100%" alt="Activity"/>
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahadul878&show_icons=true&hide_border=true&bg_color=0f1426&title_color=c4b5ff&icon_color=22d3ee&text_color=c9d1f2&ring_color=7c5cff&border_radius=16" alt="GitHub stats"/>
